@@ -1,0 +1,20 @@
+{
+  "name": "vue-crypto-transaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nduytung/vue-crypto-transaction.git"
+  },
+  "author": "nguyen duy tung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nduytung/vue-crypto-transaction/issues"
+  },
+  "homepage": "https://github.com/nduytung/vue-crypto-transaction#readme",
+  "devDependencies": {}
+}
