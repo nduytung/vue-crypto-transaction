@@ -1,5 +1,7 @@
 <template>
-  <div class="border border-white p-3 rounded-xl w-2/3 mx-auto">
+  <div
+    class="p-3 rounded-xl w-2/3 mx-auto bg-gradient-to-r from-purple-400 via-yellow-200 to-rose-500"
+  >
     <section class="flex justify-between">
       <img class="w-12 h-12" src="/img/ethereum-icon.png" />
       <div

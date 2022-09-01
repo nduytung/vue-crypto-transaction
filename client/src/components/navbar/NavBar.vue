@@ -1,5 +1,7 @@
 <template>
-  <section class="py-5 bg-indigo-900 w-full">
+  <section
+    class="py-5 bg-gradient-to-r from-black to-[#7d2b48] via-[#303052] w-full"
+  >
     <section class="container mx-auto flex justify-between items-center">
       <div>
         <img class="w-12 h-12" src="../../../public/img/main-logo.png" />
